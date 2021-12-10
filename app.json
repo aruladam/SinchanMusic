@@ -1,5 +1,5 @@
 {
-    "name": "Veez Music Bot",
+    "name": "sinchan Music Bot",
     "logo": "https://telegra.ph/file/9dd9b20abcda2d7bb6725.png",
     "description": "veez music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/aruladam-lab/sinchanmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -83,12 +83,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "chupdateyanh"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "EmporioFamilyWibu"
         }
     },
     "addons": [],
